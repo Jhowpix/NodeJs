@@ -24,3 +24,5 @@ use a extencao nodemon para vizualizar sua aplicacao automaticamente
 
    npm run start:dev    // press enter 
 */
+
+require('./modules/fs');
