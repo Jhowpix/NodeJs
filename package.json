@@ -1,0 +1,14 @@
+{
+  "name": "new-projecto",
+  "version": "1.0.0",
+  "description": "Projeto para portifolio",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Jhonatan De Oliveira Silva",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
